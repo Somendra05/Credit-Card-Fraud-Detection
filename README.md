@@ -18,7 +18,7 @@ Process
 	•	Addressed class imbalance using Synthetic Minority Oversampling Technique (SMOTE) and weighted class parameters.
 	•	Performed hyperparameter tuning using grid search and cross-validation to achieve optimal performance.
 
-4.Evaluation Metrics
+4. Evaluation Metrics
 	•	Focused on metrics such as precision, recall, F1-score, and AUC-ROC, with emphasis on minimizing false negatives (to avoid missing fraud cases).
 
 Results
